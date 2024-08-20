@@ -11,7 +11,7 @@ This project covers how to implement instagram like button in the flutter applic
 [insta_like_button](https://pub.dev/packages/insta_like_button)
 
 ## Blog
-Click [here](https://effortlesscodelearning.com/blog/create-interactive-and-customizable-snackbars-in-flutter/) for detailed tutorial on this topic.
+Click [here](https://effortlesscodelearning.com/blog/how-to-add-an-instagram-like-button-in-flutter-with-the-instalikebutton-package/) for detailed tutorial on this topic.
 
 ## Youtube
 
